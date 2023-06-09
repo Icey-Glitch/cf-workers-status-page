@@ -34,7 +34,7 @@ monitors:
 
   - id: image-sine-zip
     name: cdn.sine.zip
-    description: 'cdn getm somewhere what?????'
+    description: 'cdn getm somewhere what??????'
     url: 'https://cdn.sine.zip'
     method: GET
     expectStatus: 200
